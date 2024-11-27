@@ -1,6 +1,1 @@
-[
-'Français-1évaluation.pdf',
-'Gestion-1évaluation.pdf',
-'Statistiques appliquées-1évaluation.pdf'
 
-]
