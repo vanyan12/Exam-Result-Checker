@@ -48,7 +48,7 @@ Error_time_2 = None
 # Default directory to download files
 def_dir = rf'C:\Users\Aren\Desktop\CheckerBot\Files' 
 
-TOKEN = '6453916057:AAGzKgo5Ad160ccrZriyo50YKThStYYhkaU'
+TOKEN = '<BOT_TOKEN>'
 bot = telebot.TeleBot(TOKEN)
 
 arm_tz = pytz.timezone("Asia/Yerevan")
