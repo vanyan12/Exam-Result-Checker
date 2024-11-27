@@ -1,0 +1,4 @@
+26-Nov-24 07:42: - ERROR - Error has occured: Locator.click: Timeout 60000ms exceeded.
+Call log:
+  - waiting for locator("//*[@id='main-header']/div/div/div/div[3]/div/div[1]/a")
+
