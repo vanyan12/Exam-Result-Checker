@@ -1,6 +1,6 @@
-# CheckerBot
+# Exam-Result-Checker
 
-CheckerBot is an automated Python bot that checks if a university has uploaded new exam results and instantly sends the result files to a specified Telegram chat for students.
+Exam-Result-Checker is an automated Python bot that checks if a university has uploaded new exam results and instantly sends the result files to a specified Telegram chat for students.
 
 ## Features
 - **Automated Exam Result Detection:** Periodically monitors the university’s exam results page for new uploads.
@@ -19,8 +19,8 @@ CheckerBot is an automated Python bot that checks if a university has uploaded n
 ## Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vanyan12/CheckerBot.git
-   cd CheckerBot
+   git clone https://github.com/vanyan12/Exam-Result-Checker.git
+   cd Exam-Result-Checker
    ```
 2. **Install dependencies:**
    ```bash
